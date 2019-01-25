@@ -1,0 +1,45 @@
+﻿  animation.cpp
+  level.cpp
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(408): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(409): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(410): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(466): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(468): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(469): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(471): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(575): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+c:\users\casper\desktop\sfmlbox2dp\platformgame\platformgame\level.cpp(589): warning C4715: 'level::levelOneLose': not all control paths return a value
+  platformGame.vcxproj -> C:\Users\Casper\Desktop\SFMLBox2DP\platformGame\Debug\platformGame.exe
